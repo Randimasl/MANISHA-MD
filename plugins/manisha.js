@@ -26,13 +26,15 @@ try{
 
 let about = ` *👋 Hello ${pushname}*
 
-*💗telegram bot owner:* https://t.me/manisha_sasmitha
+*💗Contact Bot Owner1:* https://wa.me/94759934522
 
-*💗Contact Bot Owner:* https://wa.me/94759934522
+*❤️‍🔥Contact Bot Owner2:* https://wa.me/94721551183
+
+*❤️‍🔥Contact Bot Owner3:* https://wa.me/94719106067
 
 *©ᴍᴀɴɪꜱʜᴀ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴍᴀɴɪꜱʜᴀ*`
 
-return await conn.sendMessage(from,{image: {url:`https://i.imgur.com/rRdKMrE.png`},caption:about},{quoted: mek})
+return await conn.sendMessage(from,{image: {url:`https://files.catbox.moe/tjhxsh.jpg`},caption:about},{quoted: mek})
 
 }catch(e){
 
