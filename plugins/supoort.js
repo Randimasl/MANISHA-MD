@@ -32,7 +32,7 @@ MANISHA-MD බොට් ᴡhatsApp සඳහා වන පරිශීලක බ
 
 MANISHA-MD විධාන ලැයිස්තුව ලබා ගැනීම සදහා .menu විධානය භාවිතා කරන්න*
 
-ඔබට යම්කිසි ගැලුවක් පැවතිහොත් MANISHA-MD ඩිවලොපර් සම්බන්ද කර ගැනිමට .owner විධානය බාවිත කරන්න ස්තූතියි....!`
+ඔබට යම්කිසි ගැලුවක් පැවතිහොත් MANISHA-MD ඩිවලොපර් සම්බන්ද කර ගැනිමට .manisha-md විධානය බාවිත කරන්න ස්තූතියි....!`
 
 return await conn.sendMessage(from,{image: {url:`https://files.catbox.moe/tjhxsh.jpg`},caption:about},{quoted: mek})
 
