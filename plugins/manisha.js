@@ -6,7 +6,7 @@ const {cmd , commands} = require('../command')
 
 cmd({
 
-    pattern: "manisha-md",
+    pattern: "owener",
 
     desc: "To get the bot informations.",
 
@@ -32,7 +32,7 @@ let about = ` *👋 Hello ${pushname}*
 
 *❤️‍🔥Contact Bot Owner3:* https://wa.me/94719106067
 
-*©ᴍᴀɴɪꜱʜᴀ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴍᴀɴɪꜱʜᴀ*`
+*💗©ᴍᴀɴɪꜱʜᴀ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴍᴀɴɪꜱʜᴀ💗*`
 
 return await conn.sendMessage(from,{image: {url:`https://files.catbox.moe/tjhxsh.jpg`},caption:about},{quoted: mek})
 
