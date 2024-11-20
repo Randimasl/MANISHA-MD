@@ -79,9 +79,7 @@ let up = `🧑‍🔧 *_MANISHA-MD Connected Successfully!_* ✅
 
 *🔹 MADE BY:* manisha sasmitha
 
-_Thank you for using_ *🕺MANISHA-MD💗.*
-_We're here to make your experience enjoyable and seamless._
-_If you need any help or have questions, don't hesitate to ask._ 🌝💗
+_* සාදරයෙන් පිලිගන්නවා MANIHA-MD වෙත ඔබගේ ගිණුම දැන් සක්‍රියයි* *MANISHA-MD පිළිබද සම්පූර්ණ අවබෝධයක් ලබා ගැනීමට 📖.support විධානය භාවිතා කරන්න * *MANISHA-MD යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි🤖 මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න⚠️ *._ 🌝💗
 
 *🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e
 
