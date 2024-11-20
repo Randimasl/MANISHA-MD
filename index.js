@@ -59,7 +59,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('🌠 Installing')
+console.log('💫 Installing')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `🚀 *_MANISHA-MD Connected Successfully!_* ✅ 
+let up = `🧑‍🔧 *_MANISHA-MD Connected Successfully!_* ✅ 
 
---- *😈🎉 _Welcome to MANISHA-MD!_* 🎉😈 
+--- *🧑‍🔧🎉 _Welcome to MANISHA-MD!_* 🎉🧑‍🔧 
 
 *🔹 PREFIX:* ${prefix}
 
@@ -89,7 +89,7 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*🕺Enjoy your time with us!😊*_
 
-*👨‍💻ᴍᴀɴɪꜱʜᴀ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴍᴀɴɪꜱʜᴀ ꜱᴀꜱᴍɪᴛʜᴀ👨‍💻* `;
+*🧍ᴍᴀɴɪꜱʜᴀ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴍᴀɴɪꜱʜᴀ🧍* `;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/tjhxsh.jpg` }, caption: up })
 
