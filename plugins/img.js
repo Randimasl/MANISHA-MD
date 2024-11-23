@@ -18,7 +18,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Fetch image URLs from Google Custom Search API
         const searchQuery = encodeURIComponent(q);
-        const url = `https://www.googleapis.com/customsearch/v1?q=${searchQuery}&cx=${GOOGLE_CX}&key=${GOOGLE_API_KEY}&searchType=image&num=20`;
+        const url = `https://www.googleapis.com/customsearch/v1?q=${searchQuery}&cx=${GOOGLE_CX}&key=${GOOGLE_API_KEY}&searchType=image&num=5`;
         
         const response = await axios.get(url);
         const data = response.data;
