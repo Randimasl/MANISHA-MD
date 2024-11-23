@@ -22,13 +22,13 @@ const prefix = '.'
 const ownerNumber = ['94759934522']
 
 //===================SESSION-AUTH============================
-if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
+if (!fs.existsSync(__dirname + '/manisha_md/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
 const sessdata = config.SESSION_ID
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
-fs.writeFile(__dirname + '/auth_info_baileys/creds.json', data, () => {
+fs.writeFile(__dirname + '/manisha_md/creds.json', data, () => {
 console.log("Session downloaded ✅")
 })})}
 
@@ -40,7 +40,7 @@ const port = process.env.PORT || 8000;
 
 async function connectToWA() {
 console.log("Connecting MANISHA-MD BOT 💫...");
-const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
+const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/manisha_md/')
 var { version } = await fetchLatestBaileysVersion()
 
 const conn = makeWASocket({
@@ -83,7 +83,7 @@ _* සාදරයෙන් පිලිගන්නවා MANIHA-MD WHATSAPP BO
 
 *🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e
 
-*🖇️Subscribe My Youtube Channel✓💗 - :* https://youtube.com/@manishasasmitha
+*🖇️Join My WhatsApp group✓🧚‍♀️ - :* https://chat.whatsapp.com/IEEUnyvlnCqDeuFw1DEsWk
 
 _*🕺Enjoy your time with us!😊*_
 
