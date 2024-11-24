@@ -9,52 +9,11 @@
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
     <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
 
-
-
-
-
-
-</a>
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main/fork">
-    <img src="https://img.shields.io/github/forks/SahasTech22/SAHAS-MD?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main/stargazers">
-    <img src="https://img.shields.io/github/stars/SahasTech22/SAHAS-MD?style=social">
-  </a>
-</p>
+  
+<h2 align="center">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
 <p align="center">
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
-    <img src="https://img.shields.io/github/repo-size/SahasTech22/SAHAS-MD?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
-    <img src="https://img.shields.io/github/license/SahasTech22/SAHAS-MD?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
-    <img src="https://img.shields.io/github/languages/top/SahasTech22/SAHAS-MD?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Sahas%20Tech&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20DHACKER%20ZONE%20-purple&style=plastic">
-
-  </a>
-</p>
- 
-***
-
-
-
-
-    
+<a href='https://github.com/Randimasl/MANISHA-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
