@@ -15,35 +15,35 @@
 
 
 </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD/fork">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main/fork">
     <img src="https://img.shields.io/github/forks/SahasTech22/SAHAS-MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD/stargazers">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main/stargazers">
     <img src="https://img.shields.io/github/stars/SahasTech22/SAHAS-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
     <img src="https://img.shields.io/github/repo-size/SahasTech22/SAHAS-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
     <img src="https://img.shields.io/github/license/SahasTech22/SAHAS-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
     <img src="https://img.shields.io/github/languages/top/SahasTech22/SAHAS-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
     <img src="https://img.shields.io/static/v1?label=Author&message=Sahas%20Tech&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/SahasTech22/SAHAS-MD">
+  <a href="https://github.com/Randimasl/MANISHA-MD/tree/main">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20DHACKER%20ZONE%20-purple&style=plastic">
 
   </a>
