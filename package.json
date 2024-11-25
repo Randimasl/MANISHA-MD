@@ -39,6 +39,7 @@
     "hirunews-scrap": "^1.1.3",
     "google-tts-api":"2.0.2",
     "ytdl-core": "^4.11.5",
-    "xnxx-dl": "^1.0.4"
+    "xnxx-dl": "^1.0.4",
+    "mongoose":"8.8.2"
   }
 }
