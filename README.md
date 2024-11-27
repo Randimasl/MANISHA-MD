@@ -9,6 +9,7 @@
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
     <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
 <a href='https://github.com/Randimasl/MANISHA-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
@@ -17,7 +18,7 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
               
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="manisha">
 </div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
