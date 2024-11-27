@@ -9,8 +9,6 @@
   <a href="https://whatsapp.com/channel/0029VavZd1y0lwgxqEopap2e">
     <img alt=Support height="390" src="https://files.catbox.moe/tjhxsh.jpg">
 
-  
-<h2 align="center">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
 <p align="center">
 <a href='https://github.com/Randimasl/MANISHA-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
