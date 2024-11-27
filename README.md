@@ -28,7 +28,7 @@
 
 ## PAIR SITE
 
-You can see the Paire Code at **[PAIR CODE](https://express-pairing-code2-1.onrender.com//).**
+# [PAIR CODE](https://express-pairing-code2-1.onrender.com//).
 
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
