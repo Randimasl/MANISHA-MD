@@ -30,7 +30,7 @@ const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
 fs.writeFile(__dirname + '/manisha_md/creds.json', data, () => {
-console.log("Session downloaded 🧍")
+console.log("Session downloaded 🥷")
 })})}
 
 const express = require("express");
@@ -50,7 +50,7 @@ const prefix = config.PREFIX
 //========================
 
 
-console.log("Connecting MANISHA-MD 🧍...");
+console.log("Connecting MANISHA-MD 🥷...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/manisha_md/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -70,25 +70,25 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('🧍 Installing')
+console.log('🥷 Installing')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('Plugins installed successful 🧚‍♂️')
-console.log('Bot connected to whatsapp 🧚‍♂️')
+console.log('Plugins installed successful 🥷')
+console.log('Bot connected to whatsapp 🥷')
 
 let up = `🧍 *_MANISHA-MD Connected Successfully!_* 🧍 
 
---- *🧍🌹 _Welcome to MANISHA-MD!_* 🌹🧍
+--- *🥷💗 _Welcome to MANISHA-MD!_* 💗🥷
 
 *🔹 OWNER:* ${ownerNumber}
 
 *🔹 MADE BY:* manisha sasmitha
 
-_Thank you for using_ *🌹MANISHA-MD🌹.*
+_Thank you for using_ *🥷MANISHA-MD🥷.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
@@ -96,7 +96,7 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*🕺Enjoy your time with us!😊*_
 
-*💥MANISHA-MD MADE BY MANISHA💥* `;
+*🥷MANISHA-MD MADE BY MANISHA🥷* `;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/tjhxsh.jpg` }, caption: up })
 
@@ -169,7 +169,7 @@ if(!isOwner && !isGroup && config.MODE === "groups") return
 //=========OWNER - REACTION ===============================  
 if(senderNumber.includes("94759934522")){
 if(isReact) return
-m.react("💥")
+m.react("🥷")
 }
 if(senderNumber.includes("94721551183")){
 if(isReact) return
@@ -211,7 +211,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey, manisha md started🧚‍♂️");
+res.send("hey, manisha md started🥷");
 });
 app.listen(port, () => console.log(`manisha md Server listening on port http://localhost:${port}`));
 setTimeout(() => {
