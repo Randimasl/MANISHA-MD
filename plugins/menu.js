@@ -88,16 +88,7 @@ let madeMenu = ` *👋 Hello ${pushname}*
   ㋚──────〠
  ${menu.tools}
 ╰──────────●●►
-╭──────────●●►
- 📰 ⚜𝐍𝐄𝐖𝐒 𝐌𝐞𝐧𝐮⚜
-  ㋚──────〠
- .news (English)
- .derananews
- .sirasanews
- .hirunews
- .startnews (auto news on)
- .stopnews (auto news off)
-╰───────────●●►
+
 *🧍ᴍᴀɴɪꜱʜᴀ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ᴍᴀɴɪꜱʜᴀ🧍*
 `
 return await conn.sendMessage(from,{image: {url:config.ALIVE_IMG},caption:madeMenu},{quoted: mek})
